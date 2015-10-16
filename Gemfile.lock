@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    kafka-rb (0.0.15)
+    snappy (0.0.12)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  kafka-rb
+  snappy
+
+BUNDLED WITH
+   1.10.6

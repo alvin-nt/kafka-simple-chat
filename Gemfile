@@ -1,3 +1,4 @@
 source 'https://rubygems.org'
 gem 'snappy'
-gem 'kafka-rb'
+gem 'poseidon'
+gem 'digest/sha3'

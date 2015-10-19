@@ -1,14 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    kafka-rb (0.0.15)
+    poseidon (0.0.5)
     snappy (0.0.12)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  kafka-rb
+  poseidon
   snappy
 
 BUNDLED WITH
